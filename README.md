@@ -76,6 +76,6 @@ me.sayHi();
 ## 📈 My Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-kr3mowka.vercel.app/api?username=kr3mowka11&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-kr3mowka.vercel.app/api/top-langs/?username=krm3owka11&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="150em" src="https://github-readme-stats-kr3mowka11.vercel.app/api?username=kr3mowka11&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats-kr3mowka11.vercel.app/api/top-langs/?username=kr3mowka11&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 </div>
