@@ -97,7 +97,7 @@ class Program {
 random_lang = random.choice(list(languages.keys()))
 
 code = languages[random_lang]
-s
+
 readme_content = f"""# Hi! 👋
 
 ```{random_lang}
