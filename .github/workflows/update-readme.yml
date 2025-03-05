@@ -1,0 +1,40 @@
+name: Update README with Random Developer Class
+
+on:
+  schedule:
+    # Uruchamia codziennie o godzinie 00:00 (możesz dostosować)
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Uruchamia ręcznie przez interfejs GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Jeśli masz zależności, zainstaluj je, np.:
+        # pip install -r requirements.txt
+
+    - name: Run random_language.py script
+      run: python random_language.py
+
+    - name: Commit and push updated README.md
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update README with random Developer class"
+        git push
