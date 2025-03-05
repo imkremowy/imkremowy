@@ -74,6 +74,6 @@ me.sayHi();
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kr3mowka11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr3mowka11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kr3mowka11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr3mowka11&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" width="400" height="200"/>
 </div>
