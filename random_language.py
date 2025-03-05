@@ -98,8 +98,13 @@ random_lang = random.choice(list(languages.keys()))
 
 code = languages[random_lang]
 
+# Tworzymy zawartość README
 readme_content = f"""# Hi! 👋
 
 ```{random_lang}
 {code}
 ```"""
+
+# Zapisz wygenerowaną zawartość do pliku README.md
+with open("README.md", "w") as readme_file:
+    readme_file.write(readme_content)
