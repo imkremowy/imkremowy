@@ -73,7 +73,9 @@ me.sayHi();
 
 ##
 
+## 📈 My Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kr3mowka11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr3mowka11&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" width="400" height="200"/>
+  <img height="180em" src="https://github-readme-stats-kr3mowka.vercel.app/api?username=kr3mowka11&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-kr3mowka.vercel.app/api/top-langs/?username=krm3owka11&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 </div>
