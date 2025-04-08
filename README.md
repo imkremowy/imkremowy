@@ -53,7 +53,7 @@ me.sayHi();
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
   <img width="12"/>
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="Vite Logo>
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="Vite Logo"/>
 </div>
 
 ##
