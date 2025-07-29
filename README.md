@@ -21,55 +21,17 @@ me.sayHi();
 
 ## 🔧 Tech Stack
 
-**Programming Languages:**
+**Funi icons:**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo"/>
-  <img width="12"/>
-</div>
-
-##
-
-**Frontend Development:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"/>
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="Vite Logo"/>
-</div>
-
-##
-
-**Currently Learning:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby Logo"/>
-  <img width="12"/>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c,cs,java,ruby,python,nodejs,discordjs,html,css,tailwindcss,vite,react,vue,git,docker,vscode,visualstudio,firebase,mongodb&theme=dark" />
+</p>
 
 ##
 
 ## 🏆 GitHub Trophies
 
-<div align="left">
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kr3mowka11&theme=gruvbox"/>
 </div>
 
