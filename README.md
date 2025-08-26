@@ -6,7 +6,7 @@ class Developer {
         this.name = "kremowy";
         this.role = "Developer";
         this.currently_learning = "Ruby";
-        this.creating_bugs_since = "2020";
+        this.creating_bugs_since = "2018";
         this.language_spoken = ["pl_PL", "en_US"];
     }
 
