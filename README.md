@@ -1,16 +1,22 @@
-# Hi! 👋
+# Hi
 
-```javascript
+```typescript
 class Developer {
+    name: string;
+    role: string;
+    currently_learning: string;
+    creating_bugs_since: number;
+    language_spoken: string[];
+
     constructor() {
         this.name = "kremowy";
         this.role = "Developer";
-        this.currently_learning = "Ruby";
-        this.creating_bugs_since = "2018";
-        this.language_spoken = ["pl_PL", "en_US"];
+        this.currently_learning = "Nothing";
+        this.creating_bugs_since = 2017;
+        this.languages_spoken = ["pl_PL", "en_US"];
     }
 
-    sayHi() {
+    sayHi(): void {
         console.log("Thanks for stopping by, hope you find some of my work interesting.");
     }
 }
@@ -21,10 +27,10 @@ me.sayHi();
 
 ## 🔧 Tech Stack
 
-**Funi icons:**
+**icons:**
 
 <p align="center">
-    <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,cpp,csharp,c,java,ruby,python,golang,bash,nodejs,discordjs,reactjs,svelte,vuejs,angularjs,nextjs,vite,expressjs,tailwindcss,shadcnui,chakraui,pnpm,git,docker,eslint,prettier,neovim,visualstudiocode,visualstudio,mongodb,postgresql,redis,firebase,rest,linux,archlinux,firefox" />
+    <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,python,cpp,c,golang,bash,nodejs,discordjs,reactjs,svelte,vuejs,angularjs,nextjs,expressjs,tailwindcss,shadcnui,chakraui,pnpm,git,docker,eslint,prettier,neovim,visualstudio,mongodb,postgresql,redis,firebase,rest,trpc,archlinux" />
 </p>
 
 ##
